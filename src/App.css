@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -11,7 +11,7 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
 .App-header {
   background-color: #282c34;
@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.mainDiv {
+  border: 2px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+
+#weatherButton {
+  padding: 4px;
+}
+   
